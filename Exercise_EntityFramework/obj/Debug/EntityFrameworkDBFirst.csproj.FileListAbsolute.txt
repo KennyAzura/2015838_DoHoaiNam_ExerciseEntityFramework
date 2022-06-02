@@ -1,0 +1,15 @@
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\bin\Debug\Exercise_EntityFramework.exe.config
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\bin\Debug\Exercise_EntityFramework.exe
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\bin\Debug\Exercise_EntityFramework.pdb
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\bin\Debug\EntityFramework.dll
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\bin\Debug\EntityFramework.xml
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\EntityFrameworkDBFirst.csprojAssemblyReference.cache
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\Exercise_EntityFramework.QuanLySinhVienForm.resources
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\Exercise_EntityFramework.Properties.Resources.resources
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\EntityFrameworkDBFirst.csproj.GenerateResource.cache
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\EntityFrameworkDBFirst.csproj.CoreCompileInputs.cache
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\EntityFrameworkDBFirst.csproj.CopyComplete
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\Exercise_EntityFramework.exe
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\Exercise_EntityFramework.pdb

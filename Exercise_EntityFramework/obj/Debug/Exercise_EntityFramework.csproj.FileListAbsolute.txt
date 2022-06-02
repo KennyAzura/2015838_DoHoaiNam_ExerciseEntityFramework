@@ -1,0 +1,10 @@
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\bin\Debug\Exercise_EntityFramework.exe.config
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\bin\Debug\Exercise_EntityFramework.exe
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\bin\Debug\Exercise_EntityFramework.pdb
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\Exercise_EntityFramework.csprojAssemblyReference.cache
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\Exercise_EntityFramework.Properties.Resources.resources
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\Exercise_EntityFramework.csproj.GenerateResource.cache
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\Exercise_EntityFramework.csproj.CoreCompileInputs.cache
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\Exercise_EntityFramework.exe
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\Exercise_EntityFramework.pdb
+F:\PTUDDeskTop\Exercise_EntityFramework\Exercise_EntityFramework\obj\Debug\Exercise_EntityFramework.QuanLySinhVienForm.resources
